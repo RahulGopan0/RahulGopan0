@@ -6,4 +6,4 @@ A Computer Engineer by training, I’m currently pursuing my UG at SRM Institute
 - 🌱 I’m currently learning about probabilistic models and data science
 - 👯 I’m up for collaborations that are relavent to my skills and interest
 - 📫 How to reach me: Linkedin: @rahulgopan || Email: rahulgopan14@gmail.com
-- ⚡ Fun fact: I'm good at k nock knock jokes
+- ⚡ Fun fact: I'm good at knock knock jokes
